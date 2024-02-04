@@ -96,7 +96,7 @@ export function RegisteredCars(props){
         <Container>
             <Row>
               <h3 className="Headings">Your cars</h3>
-              { items.length > 0 ? items : <div>Currently you don't have any registered cars on Car Tijarat</div>}
+              { items.length > 0 ? items : <div>Currently you don't have any registered cars on AutoBidder</div>}
             </Row>
         </Container>
 

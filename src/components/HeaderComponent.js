@@ -25,7 +25,7 @@ export function Header(props) {
 
     return (<div id="Header">
         <Navbar id='navbar' dark expand="lg" >
-            <NavbarBrand id="Logo" href="/" ><img alt="Car Tijarat" src="/LogoAlpha1.png" height={"25px"} width={"40px"} /></NavbarBrand>
+            <NavbarBrand id="Logo" href="/" ><img alt="AutoBidder" src="/Logo1.png" height={"10px"} width={"20px"} style={{ marginTop: "-5px" }}/></NavbarBrand>
             { props.loggedin===false?
             <Nav id="Login">
                 <NavItem >

@@ -68,7 +68,7 @@ export function Register(props) {
             <Row>
                 <Col className="offset-md-2 " sm="12" md="8" lg="8">
                     <div className="translucent">
-                        <h3 style={{ "color": "white", "textAlign": "center" }} ><b>Get Registered In To Car Tijarat</b> </h3>
+                        <h3 style={{ "color": "white", "textAlign": "center" }} ><b>Get Registered In To AutoBidder</b> </h3>
                         <Form onSubmit={handleSubmit} style={{"width":"60%"}} >
                             <Row>
                             <FormGroup className="col-md-6">

@@ -68,7 +68,7 @@ const handleSubmit=async(e)=>{
             </Col>
             <Col sm="12" md="12" lg="6">
                 <div className="translucent">
-                    <h3 style={{"color":"white","textAlign":"center"}} ><b>Sign in to Car Tijarat</b> </h3>
+                    <h3 style={{"color":"white","textAlign":"center"}} ><b>Sign in to AutoBidder</b> </h3>
                 <Form onSubmit={handleSubmit} >
                     <FormGroup>
                     <Label for="email">Email</Label>

@@ -18,7 +18,7 @@ function Fetchdata(setList,options,id){
 
 function CreateCards({List,gridView}){
     if(List === "No auctions found"){
-        return(<div>Currently you don't have any registered cars on Car Tijarat</div>);
+        return(<div>Currently you don't have any registered cars on AutoBidder</div>);
     }
     //console.log(List)
     const ret= List.map((auction)=>{

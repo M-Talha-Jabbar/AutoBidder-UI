@@ -322,7 +322,7 @@ body{
   height: 20vh;
   animation: fadein 3s ease-in-out;
   transform: scale(1.5);
-  content: url("/public/LogoAlpha1.png");
+  content: url("/public/Logo2.png");
 }
 .dot {
   height: 15px;

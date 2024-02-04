@@ -159,7 +159,7 @@ function Footer() {
         <Col md="4">
           <Card color="" id="Membership">
             <CardTitle><h3>Basic</h3></CardTitle>
-            <CardSubtitle><h4 className="MembershipPrice">500 PKR</h4></CardSubtitle>
+            <CardSubtitle><h4 className="MembershipPrice">$100</h4></CardSubtitle>
             <hr />
             <CardBody>
               <div><FcApproval /><b> View Auctions</b></div>
@@ -177,7 +177,7 @@ function Footer() {
         <Col md="4">
           <Card color="" id="Membership">
             <CardTitle><h3>Premium</h3></CardTitle>
-            <CardSubtitle><h4 className="MembershipPrice">2000 PKR</h4></CardSubtitle>
+            <CardSubtitle><h4 className="MembershipPrice">$500</h4></CardSubtitle>
             <hr />
             <CardBody>
               <div><FcApproval /><b> View Auctions</b></div>
