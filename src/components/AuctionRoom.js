@@ -89,7 +89,7 @@ const AuctionRoom = ({ data, connection, BiddingID, isEnded }) => {
             { winner && <ShowModal /> }
             { show && 
                 <Alert variant="success" onClose={() => setShow(false)} dismissible>
-                    <p>Are you sure you want to place the bid of <span style={ { fontWeight: "bold" }}>Rs. {document.getElementById('bid').value}</span></p>
+                    <p>Are you sure you want to place the bid of <span style={ { fontWeight: "bold" }}>$ {document.getElementById('bid').value}</span></p>
                     <div className="d-flex justify-content-end">
                         <Button 
                             onClick={() => {
@@ -132,9 +132,9 @@ const AuctionRoom = ({ data, connection, BiddingID, isEnded }) => {
                 </Col>
 
                 <Col>
-                    <p>Starting Bid: <span className="fw-bold">Rs. { data.startingPrice }</span></p>
+                    <p>Starting Bid: <span className="fw-bold">$ { data.startingPrice }</span></p>
 
-                    <p>Highest Bid: <span className="fw-bold">Rs. { highestBid }</span></p>
+                    <p>Highest Bid: <span className="fw-bold">$ { highestBid }</span></p>
 
                     <p>Bidder's Id: <span className="fw-bold">{ bidderID }</span></p>
 
@@ -176,7 +176,7 @@ const AuctionRoom = ({ data, connection, BiddingID, isEnded }) => {
                             }
 
                             <div style={ { "marginTop": "15px" } }>
-                                <p>Your Last Bid: <span className="fw-bold">{ lastBid !== 'No Bid placed'? `Rs. ${lastBid}` : lastBid }</span></p>
+                                <p>Your Last Bid: <span className="fw-bold">{ lastBid !== 'No Bid placed'? `$ ${lastBid}` : lastBid }</span></p>
                                 <p>Your Bid Count: <span className="fw-bold">{ bidCount }</span></p>
                             </div>
 

@@ -73,33 +73,33 @@ export function Register(props) {
                             <Row>
                             <FormGroup className="col-md-6">
                                 <Label for="CNIC">CNIC</Label>
-                                <Input required type="text" invalid={!validatePw} minLength={15} maxLength={15} placeholder="42101-xxxxxx-x" name="CNIC" />
+                                <Input required type="text" invalid={!validatePw} minLength={15} maxLength={15} name="CNIC" />
                                 <FormFeedback >Your Cnic is alrady registered</FormFeedback>
                             </FormGroup>
                             <FormGroup className="col-md-6">
                                 <Label for="full_name">Full Name</Label>
-                                <Input required type="text" placeholder="John Doe" name="full_name" />
+                                <Input required type="text" name="full_name" />
                                 <FormFeedback >Invalid name</FormFeedback>
                             </FormGroup>
                             <FormGroup className="col-md-6">
 
                                 <Label for="email">Email</Label>
-                                <Input required type="email" invalid={!validateEmail} placeholder="Email:123@example.com" name="email" />
+                                <Input required type="email" invalid={!validateEmail} name="email" />
                                 <FormFeedback >Already registered</FormFeedback>
                             </FormGroup >
                             <FormGroup className="col-md-6">
                                 <Label for="password">Password</Label>
-                                <Input required type="password" placeholder="password"  name="password" />
+                                <Input required type="password"  name="password" />
                                 <FormFeedback>Invalid Password</FormFeedback>
                             </FormGroup>
                             <FormGroup className="col-md-6">
                                 <Label for="contact_no">Contact No</Label>
-                                <Input required type="texts" minLength={11} maxLength={11} placeholder="0333xxxxxxx(11 digits)" name="contact_no" />
+                                <Input required type="texts" minLength={11} maxLength={11} name="contact_no" />
                                 <FormFeedback >Invalid Phone</FormFeedback>
                             </FormGroup>
                             <FormGroup className="col-md-6">
                                 <Label for="location">Address</Label>
-                                <Input required type="text" placeholder="House # xx sector/block Y karachi" name="location" />
+                                <Input required type="text" name="location" />
                                 <FormFeedback >Invalid Email!No such email found</FormFeedback>
                             </FormGroup>
                             </Row>

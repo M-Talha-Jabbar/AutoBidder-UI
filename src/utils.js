@@ -1,7 +1,7 @@
 export const Crouselitems= [
     {
       src:'./slide1.jpg',
-      caption: 'Sell for best price in karachi using the competitive auction enviroment',
+      caption: 'Sell for best price in US using the competitive auction enviroment',
       header: 'Sell Your Car'
     },
     {
