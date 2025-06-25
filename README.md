@@ -18,6 +18,10 @@ This repository contains the frontend of **AutoBidder**, a real-time online vehi
 - Axios
 - TailwindCSS / Bootstrap
 
+## 🔗 Backend Repository
+The backend for this project is available here:  
+👉 [AutoBidder – Backend](https://github.com/M-Talha-Jabbar/AutoBidder-Backend)
+
 ## 🖼️ UI Screenshots
 ### Login & Registration
 ![image](https://github.com/user-attachments/assets/8b42a580-6f76-4420-bd57-f84d163b135e)
@@ -34,7 +38,3 @@ This repository contains the frontend of **AutoBidder**, a real-time online vehi
 ### Membership & Complaints
 ![image](https://github.com/user-attachments/assets/3c7b092e-3689-49a0-8a8a-7bd081f6c4ea)
 ![image](https://github.com/user-attachments/assets/16df729b-1907-4954-83d3-3e990a3a35cb)
-
-## 🔗 Backend Repository
-The backend for this project is available here:  
-👉 [AutoBidder – Backend](https://github.com/M-Talha-Jabbar/AutoBidder-Backend)
