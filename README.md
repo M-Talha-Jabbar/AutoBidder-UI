@@ -11,6 +11,13 @@ This repository contains the frontend of **AutoBidder**, a real-time online vehi
 - Socket.IO integration for live communication
 - Complaint form and auction history views
 
+## 🛠️ Tech Stack
+- React.js
+- Context API
+- Socket.IO Client
+- Axios
+- TailwindCSS / Bootstrap
+
 ## 🔗 Backend Repository
 The backend for this project is available here:  
 👉 [AutoBidder – Backend](https://github.com/M-Talha-Jabbar/AutoBidder-Backend)
