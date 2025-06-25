@@ -11,4 +11,4 @@ This repository contains the frontend of **AutoBidder**, a real-time online vehi
 
 ## 🔗 Backend Repository
 The backend for this project is available here:  
-👉 [AutoBid – Backend](https://github.com/M-Talha-Jabbar/AutoBidder-Backend)
+👉 [AutoBidder – Backend](https://github.com/M-Talha-Jabbar/AutoBidder-Backend)
