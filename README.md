@@ -2,7 +2,7 @@
 
 This repository contains the frontend of **AutoBidder**, a real-time online vehicle auction platform that enables sellers to list vehicles and buyers to place live bids in a seamless virtual environment.
 
-## 🌟 Features
+## Features
 - User-friendly interfaces for login/signup
 - Seller dashboard for listing vehicles and managing auctions
 - Real-time auction rooms with live bid updates
@@ -11,7 +11,7 @@ This repository contains the frontend of **AutoBidder**, a real-time online vehi
 - Socket.IO integration for live communication
 - Complaint form and auction history views
 
-## 🛠️ Tech Stack
+## Tech Stack
 - React.js
 - Context API
 - Socket.IO 
@@ -22,7 +22,7 @@ This repository contains the frontend of **AutoBidder**, a real-time online vehi
 The backend for this project is available here:  
 👉 [AutoBidder – Backend](https://github.com/M-Talha-Jabbar/AutoBidder-Backend)
 
-## 🖼️ UI Screenshots
+## UI Screenshots
 ### Login & Registration
 ![image](https://github.com/user-attachments/assets/8b42a580-6f76-4420-bd57-f84d163b135e)
 ![image](https://github.com/user-attachments/assets/a9ace3f7-dc76-4aa0-9e64-bd52f828da72)
