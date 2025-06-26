@@ -1,6 +1,6 @@
 # AutoBidder – UI
 
-This repository contains the frontend of **AutoBidder**, a real-time online vehicle auction platform that enables sellers to list cars and buyers to place live bids in a seamless virtual environment.
+This repository contains the frontend of **AutoBidder**, a real-time online vehicle auction platform that enables sellers to list vehicles and buyers to place live bids in a seamless virtual environment.
 
 ## 🌟 Features
 - User-friendly interfaces for login/signup
