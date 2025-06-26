@@ -14,7 +14,7 @@ This repository contains the frontend of **AutoBidder**, a real-time online vehi
 ## 🛠️ Tech Stack
 - React.js
 - Context API
-- Socket.IO Client
+- Socket.IO 
 - Axios
 - TailwindCSS / Bootstrap
 
